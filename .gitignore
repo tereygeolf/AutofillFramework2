@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/afservice/build/
+/afservice/build/intermediates/javac/debug/classes/
